@@ -1,0 +1,4 @@
+# Minimal setup for an empty greenfield project: no code yet, so no tests to run.
+# "true" is a shell no-op (exit 0) - explicitly "run no tests on purpose".
+commands:
+  test: "true"
